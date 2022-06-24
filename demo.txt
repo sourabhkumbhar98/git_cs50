@@ -2,4 +2,8 @@ hello from local machine!!
 
 pushed file onto remote!!
 
+<<<<<<< HEAD
 edited from github and pulled down to local!!!!!!!
+=======
+edited from github and pulled down to local!!!!!!!!!!!
+>>>>>>> ed06fbb3c90ef5043563fbe6b231246b0c1fc0f0
